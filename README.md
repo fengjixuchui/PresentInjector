@@ -8,5 +8,7 @@ Hello, since i found a better way to inject my internal cheat, i decided to rele
  - Discord & Medal present pointers (offset & signatures).
  - Shadow Imports.
 
+(discontinued project due to in-game issues)
+
 # PresentInjector
 A simple present scene, kernel allocation injector.
